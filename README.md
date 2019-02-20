@@ -4,3 +4,6 @@ use Ruby
 - Strategy
 - Observer
 - Composite
+- Iterator
+- Command
+- Adapter
