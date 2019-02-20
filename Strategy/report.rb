@@ -1,4 +1,4 @@
-require './abstract_formatter'
+require './formatter'
 
 class Report
   attr_reader :title, :body
