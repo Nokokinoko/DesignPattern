@@ -7,3 +7,8 @@ use Ruby
 - Iterator
 - Command
 - Adapter
+- Proxy
+- Decorator
+- Singleton
+- Factory
+- Builder
