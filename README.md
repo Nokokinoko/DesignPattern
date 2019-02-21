@@ -12,3 +12,4 @@ use Ruby
 - Singleton
 - Factory
 - Builder
+- Interpreter
