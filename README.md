@@ -1,5 +1,6 @@
 # DesignPattern
-use Ruby
+use Ruby.  
+action is still unconfirmed.  
 - Template Method
 - Strategy
 - Observer
